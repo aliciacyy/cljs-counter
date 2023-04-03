@@ -1,4 +1,4 @@
- .clj-kondo/
+.clj-kondo/
 .lsp/
 .shadow-cljs/
 node_modules/
